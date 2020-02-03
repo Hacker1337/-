@@ -1,0 +1,13 @@
+﻿DHTxx test!
+Humidity: 94.00%  Temperature: 21.90°C 71.42°F  Heat index: 22.60°C 72.68°F
+Humidity: 79.00%  Temperature: 21.90°C 71.42°F  Heat index: 22.21°C 71.97°F
+Humidity: 79.00%  Temperature: 21.80°C 71.24°F  Heat index: 22.10°C 71.78°F
+Humidity: 79.00%  Temperature: 21.90°C 71.42°F  Heat index: 22.21°C 71.97°F
+Humidity: 79.00%  Temperature: 21.90°C 71.42°F  Heat index: 22.21°C 71.97°F
+Humidity: 79.00%  Temperature: 21.90°C 71.42°F  Heat index: 22.21°C 71.97°F
+Humidity: 79.00%  Temperature: 21.90°C 71.42°F  Heat index: 22.21°C 71.97°F
+Humidity: 79.00%  Temperature: 21.90°C 71.42°F  Heat index: 22.21°C 71.97°F
+Humidity: 79.00%  Temperature: 21.90°C 71.42°F  Heat index: 22.21°C 71.97°F
+Humidity: 79.00%  Temperature: 21.90°C 71.42°F  Heat index: 22.21°C 71.97°F
+Humidity: 79.00%  Temperature: 21.90°C 71.42°F  Heat index: 22.21°C 71.97°F
+Humidity: 79.00%  Temperature: 21.90°C 71.42°F  Heat index: 22.21°C 71.97°F
