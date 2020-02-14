@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.8)  14 FEB 2020 00:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.8)  14 FEB 2020 14:30
 entering extended mode
 **"./Отчет о проделанной работе.tex"
 ("Отчет о проделанной работе.tex"
@@ -554,25 +554,26 @@ LaTeX Font Info:    Try loading font information for T2A+cmss on input line 23.
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ) [1
 
-{C:/Users/Амир/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/Users/Амир/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
 ("Отчет о проделанной работе.aux") ) 
 Here is how much of TeX's memory you used:
- 5680 strings out of 492895
- 89921 string characters out of 3133471
- 268024 words of memory out of 3000000
- 9523 multiletter control sequences out of 15000+200000
- 8011 words of font info for 20 fonts, out of 3000000 for 9000
+ 5687 strings out of 492895
+ 90007 string characters out of 3133471
+ 270024 words of memory out of 3000000
+ 9527 multiletter control sequences out of 15000+200000
+ 10533 words of font info for 23 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,6n,51p,9159b,172s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,7n,51p,9159b,172s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Амир\
-AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lasx1728.pk> <C:\User
-s\Амир\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.p
+AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labi2074.pk> <C:\User
+s\Амир\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lasx1728.p
 k> <C:\Users\Амир\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600
-\larm1440.pk>
-Output written on "Отчет о проделанной работе.pdf" (1 pa
-ge, 41748 bytes).
+\larm1200.pk> <C:\Users\Амир\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh
+-t2a/dpi600\larm1440.pk>
+Output written on "Отчет о проделанной работе.pdf" (2 pa
+ges, 54886 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
+ 153 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
