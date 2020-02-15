@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.8)  15 FEB 2020 06:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.8)  15 FEB 2020 08:06
 entering extended mode
 **"./Отчет о проделанной работе.tex"
 ("Отчет о проделанной работе.tex"
@@ -553,84 +553,98 @@ LaTeX Font Info:    Try loading font information for T2A+cmss on input line 23.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/cyrillic\t2acmss.fd"
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
+LaTeX Font Info:    Try loading font information for U+msa on input line 27.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 27.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<Bubbles.jpg, id=1, 3035.34pt x 4047.12pt>
+File: Bubbles.jpg Graphic file (type jpg)
+<use Bubbles.jpg>
+Package pdftex.def Info: Bubbles.jpg  used on input line 38.
+(pdftex.def)             Requested size: 212.49551pt x 283.32735pt.
+ [1
+
+{C:/Users/Амир/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<Contr.png, id=16, 575.90157pt x 384.6872pt>
+File: Contr.png Graphic file (type png)
+<use Contr.png>
+Package pdftex.def Info: Contr.png  used on input line 43.
+(pdftex.def)             Requested size: 287.95007pt x 192.34312pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
 
  []
 
-<Evalution.jpg, id=1, 2360.82pt x 1517.67pt>
+[2 <./Bubbles.jpg> <./Contr.png>]
+<Evalution.jpg, id=22, 2360.82pt x 1517.67pt>
 File: Evalution.jpg Graphic file (type jpg)
 <use Evalution.jpg>
-Package pdftex.def Info: Evalution.jpg  used on input line 33.
+Package pdftex.def Info: Evalution.jpg  used on input line 51.
 (pdftex.def)             Requested size: 424.92928pt x 273.16881pt.
-[1
-
-{C:/Users/Амир/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<Heat.jpg, id=9, 2890.8pt x 1454.43375pt>
+ [3 <./Evalution.jpg>]
+<Heat.jpg, id=26, 2890.8pt x 1454.43375pt>
 File: Heat.jpg Graphic file (type jpg)
 <use Heat.jpg>
-Package pdftex.def Info: Heat.jpg  used on input line 40.
+Package pdftex.def Info: Heat.jpg  used on input line 58.
 (pdftex.def)             Requested size: 462.53746pt x 232.71416pt.
 
-Overfull \hbox (14.40651pt too wide) in paragraph at lines 40--41
+Overfull \hbox (14.40651pt too wide) in paragraph at lines 58--59
 []  
  []
 
-[2 <./Evalution.jpg>]
-LaTeX Font Info:    Try loading font information for U+msa on input line 43.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 43.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-<ToiletFun.jpg, id=13, 1626.075pt x 2168.1pt>
+<ToiletFun.jpg, id=27, 1626.075pt x 2168.1pt>
 File: ToiletFun.jpg Graphic file (type jpg)
 <use ToiletFun.jpg>
-Package pdftex.def Info: ToiletFun.jpg  used on input line 45.
+Package pdftex.def Info: ToiletFun.jpg  used on input line 63.
 (pdftex.def)             Requested size: 162.61702pt x 216.8227pt.
- [3 <./Heat.jpg>]
-<Demo.jpg, id=19, 1055.44313pt x 552.94078pt>
+[4 <./Heat.jpg>]
+<Demo.jpg, id=31, 1055.44313pt x 552.94078pt>
 File: Demo.jpg Graphic file (type jpg)
 <use Demo.jpg>
-Package pdftex.def Info: Demo.jpg  used on input line 54.
+Package pdftex.def Info: Demo.jpg  used on input line 74.
 (pdftex.def)             Requested size: 422.16978pt x 221.1724pt.
-
-[4 <./ToiletFun.jpg> <./Demo.jpg>]
-<RandomPower.png, id=27, 584.93532pt x 355.7039pt>
+ [5 <./ToiletFun.jpg>]
+<RandomPower.png, id=35, 584.93532pt x 355.7039pt>
 File: RandomPower.png Graphic file (type png)
 <use RandomPower.png>
-Package pdftex.def Info: RandomPower.png  used on input line 58.
+Package pdftex.def Info: RandomPower.png  used on input line 78.
 (pdftex.def)             Requested size: 350.9639pt x 213.42398pt.
-<Boom.jpg, id=29, 1626.075pt x 2168.1pt>
+<Boom.jpg, id=36, 1626.075pt x 2168.1pt>
 File: Boom.jpg Graphic file (type jpg)
 <use Boom.jpg>
-Package pdftex.def Info: Boom.jpg  used on input line 62.
+Package pdftex.def Info: Boom.jpg  used on input line 82.
 (pdftex.def)             Requested size: 325.20924pt x 433.61232pt.
- [5 <./RandomPower.png>] [6 <./Boom.jpg>]
-("Отчет о проделанной работе.aux") ) 
+ [6 <./Demo.jpg> <./RandomPower.png>]
+[7 <./Boom.jpg>] [8] ("Отчет о проделанной работе.aux") 
+) 
 Here is how much of TeX's memory you used:
- 5757 strings out of 492895
- 91000 string characters out of 3133471
- 268024 words of memory out of 3000000
- 9572 multiletter control sequences out of 15000+200000
+ 5767 strings out of 492895
+ 91138 string characters out of 3133471
+ 269024 words of memory out of 3000000
+ 9580 multiletter control sequences out of 15000+200000
  12358 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,6n,51p,9159b,215s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Амир\
-AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lasx1728.pk> <C:\User
-s\Амир\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.p
-k> <C:\Users\Амир\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600
-\larm1440.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on "Отчет о проделанной работе.pdf" (6 pa
-ges, 13509579 bytes).
+ <C:\Users\Амир\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\
+lasx1728.pk> <C:\Users\Амир\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-
+t2a/dpi600\larm1200.pk> <C:\Users\Амир\AppData\Local\MiKTeX\2.9\fonts/pk/lj
+four/lh/lh-t2a/dpi600\larm1440.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on "Отчет о проделанной работе.pdf" (8 pa
+ges, 17672546 bytes).
 PDF statistics:
- 188 PDF objects out of 1000 (max. 8388607)
+ 210 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
